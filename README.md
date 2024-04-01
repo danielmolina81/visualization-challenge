@@ -99,27 +99,27 @@ Calculate Correlation and Regression
 Requirements
 Prepare the Data (20 points)
 
-    The datasets are merged into a single DataFrame. (6 points)
-    The number of mice are shown from the merged DataFrame. (2 points)
-    Each duplicate mice is found based on the Mouse ID and Timepoint. (6 points)
-    A clean DataFrame is created with the dropped duplicate mice. (4 points)
-    The number of mice are shown from the clean DataFrame. (2 points)
+    The datasets are merged into a single DataFrame. (6 points)ok
+    The number of mice are shown from the merged DataFrame. (2 points)ok
+    Each duplicate mice is found based on the Mouse ID and Timepoint. (6 points)ok
+    A clean DataFrame is created with the dropped duplicate mice. (4 points)ok
+    The number of mice are shown from the clean DataFrame. (2 points)ok
 
 Generate Summary Statistics (15 points)
 
-    The mean of the tumor volume for each regimen is calculated using groupby. (2 points)
-    The media of the tumor volume for each regimen is calculated using groupby. (2 points)
-    The variance of the tumor volume for each regimen is calculated using groupby. (2 points)
-    The standard deviation of the tumor volume for each regimen is calculated using groupby. (2 points)
-    The SEM of the tumor volume for each regimen is calculated using groupby. (2 points)
-    A new DataFrame is created with using the summary statistics. (5 points)
+    The mean of the tumor volume for each regimen is calculated using groupby. (2 points)ok
+    The media of the tumor volume for each regimen is calculated using groupby. (2 points)ok
+    The variance of the tumor volume for each regimen is calculated using groupby. (2 points)ok
+    The standard deviation of the tumor volume for each regimen is calculated using groupby. (2 points)ok
+    The SEM of the tumor volume for each regimen is calculated using groupby. (2 points)ok
+    A new DataFrame is created with using the summary statistics. (5 points)ok
 
 Create Bar Charts and Pie Charts (15 points)
 
-    A bar plot showing the total number of timepoints for all mice tested for each drug regimen using Pandas is generated. (4.5 points)
-    A bar plot showing the total number of timepoints for all mice tested for each drug regimen using pyplot is generated. (4.5 points)
-    A pie plot showing the distribution of female versus male mice using Pandas is generated. (3 points)
-    A pie plot showing the distribution of female versus male mice using pyplot is generated. (3 points)
+    A bar plot showing the total number of timepoints for all mice tested for each drug regimen using Pandas is generated. (4.5 points)ok
+    A bar plot showing the total number of timepoints for all mice tested for each drug regimen using pyplot is generated. (4.5 points)ok
+    A pie plot showing the distribution of female versus male mice using Pandas is generated. (3 points)ok
+    A pie plot showing the distribution of female versus male mice using pyplot is generated. (3 points)ok
 
 Calculate Quartiles, Find Outliers, and Create a Box Plot (30 points)
 
