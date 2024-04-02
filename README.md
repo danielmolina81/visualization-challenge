@@ -123,13 +123,13 @@ Create Bar Charts and Pie Charts (15 points)
 
 Calculate Quartiles, Find Outliers, and Create a Box Plot (30 points)
 
-    A DatFrame that has the last timepoint for each mouse ID is created using groupby. (5 points)
-    The index of the DataFrame is reset. (2 points)
-    Retrieve the maximum timepoint for each mouse. (2 points)
-    The four treatment groups, Capomulin, Ramicane, Infubinol, and Ceftamin, are put in a list. (3 points)
-    An empty list is created to fill with tumor volume data. (3 points)
+    A DatFrame that has the last timepoint for each mouse ID is created using groupby. (5 points) ok
+    The index of the DataFrame is reset. (2 points) ok
+    Retrieve the maximum timepoint for each mouse. (2 points) ok
+    The four treatment groups, Capomulin, Ramicane, Infubinol, and Ceftamin, are put in a list. (3 points) ok
+    An empty list is created to fill with tumor volume data. (3 points) ok
     A for loop is used to display the interquartile range (IQR) and the outliers for each treatment group (10 points)
-    A box plot is generated that shows the distribution of the final tumor volume for all the mice in each treatment group. (5 points)
+    A box plot is generated that shows the distribution of the final tumor volume for all the mice in each treatment group. (5 points)ok 
 
 Create a Line Plot and a Scatter Plot (10 points)
 
