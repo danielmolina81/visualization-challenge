@@ -133,8 +133,8 @@ Calculate Quartiles, Find Outliers, and Create a Box Plot (30 points)
 
 Create a Line Plot and a Scatter Plot (10 points)
 
-    A line plot is generated that shows the tumor volume vs. time point for one mouse treated with Capomulin. (5 points)
-    A scatter plot is generated that shows average tumor volume vs. mouse weight for the Capomulin regimen. (5 points)
+    A line plot is generated that shows the tumor volume vs. time point for one mouse treated with Capomulin. (5 points)ok
+    A scatter plot is generated that shows average tumor volume vs. mouse weight for the Capomulin regimen. (5 points)ok
 
 Calculate Correlation and Regression (10 points)
 
