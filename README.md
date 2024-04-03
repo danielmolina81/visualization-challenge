@@ -138,7 +138,7 @@ Create a Line Plot and a Scatter Plot (10 points)
 
 Calculate Correlation and Regression (10 points)
 
-    The correlation coefficient and linear regression model are calculated for mouse weight and average tumor volume for the Capomulin regimen. (10 points)
+    The correlation coefficient and linear regression model are calculated for mouse weight and average tumor volume for the Capomulin regimen. (10 points)ok
 
 Hints and Considerations
 
