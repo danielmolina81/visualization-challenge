@@ -1,4 +1,4 @@
-# visualization-challenge
+# Pymaceuticals
 
 # Conclusions
 - There are more observations for the regimens Capomulin and Ramicane.
