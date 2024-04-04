@@ -1,6 +1,6 @@
 # visualization-challenge
 
-# Analysis
+# Conclusions
 - There are more observations for the regimens Capomulin and Ramicane.
 - The number of female mice and male mice for the study is almost the same, with 51% male mice and 49% female mice.
 - The standard deviation of the average Tumor Volume is low for all the treatments, which means the results are not very spread. This can also be confirmed with only observing one outlier among the last observation for treatments with Capomulin, Ramicane, Infubino and Ceftamin.
@@ -19,12 +19,16 @@ The executive team has tasked you with generating all of the tables and figures 
 # Prepare the data.
 Merged data
 ![](Pymaceuticals/images/1.png)
+
 Number of Mice
 ![](Pymaceuticals/images/2.png)
+
 Duplicate
 ![](Pymaceuticals/images/3.png)
+
 Clean Data
 ![](Pymaceuticals/images/4.png)
+
 Final number of Mice
 ![](Pymaceuticals/images/5.png)
 
@@ -33,16 +37,20 @@ Final number of Mice
 
 # Create bar charts and pie charts.
 ![](Pymaceuticals/images/7.png)
+
 ![](Pymaceuticals/images/8.png)
 
 # Calculate quartiles, find outliers, and create a box plot.
 ![](Pymaceuticals/images/9.png)
+
 ![](Pymaceuticals/images/10.png)
 
 # Create a line plot and a scatter plot.
 ![](Pymaceuticals/images/11.png)
+
 ![](Pymaceuticals/images/12.png)
 
 # Calculate correlation and regression.
 ![](Pymaceuticals/images/13.png)
+
 ![](Pymaceuticals/images/14.png)
